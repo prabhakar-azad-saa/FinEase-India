@@ -432,7 +432,7 @@ const App: React.FC = () => {
                   icon="fas fa-chart-bar"
                 />
                 <StatCard
-                  number="40+"
+                  number="140+"
                   label="Partner Banks"
                   icon="fas fa-handshake"
                 />
@@ -471,7 +471,7 @@ const App: React.FC = () => {
               title="Home Loans"
               description="Turn your dream of homeownership into reality with our competitive home loan rates and flexible terms."
               features={[
-                "Interest rates starting from 8.5%",
+                "Interest rates starting from 7.5%",
                 "Loan amount up to ₹5 Crores",
                 "Tenure up to 30 years",
                 "Minimal documentation",
